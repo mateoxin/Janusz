@@ -1,0 +1,12 @@
+.nav-bar {
+    float: left;
+    width: 30%;
+    background-color: darkgrey;
+    height: 400px
+}
+
+.content-presenter {
+    float: right;
+    width: 70%;
+    height: 400px
+}
